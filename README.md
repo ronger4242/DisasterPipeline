@@ -33,8 +33,8 @@ This project contains the following folders and files:
 
 # Results
 Please see the images files
-![overview](https://github.com/ronger4242/DisasterPipeline/overview.png)
-![classify_info](https://github.com/ronger4242/DisasterPipeline/classify_info.png)
+![overview](https://github.com/ronger4242/DisasterPipeline/Images/overview.png)
+![classify_info](https://github.com/ronger4242/DisasterPipeline/Images/classify_info.png)
 
 
 # Licensing, Authors, Acknowledgements
