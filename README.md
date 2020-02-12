@@ -32,9 +32,10 @@ This project contains the following folders and files:
 * README.md (project instructions)
 
 # Results
-Please see the images files
-![overview](https://github.com/ronger4242/DisasterPipeline/Images/overview.png)
-![classify_info](https://github.com/ronger4242/DisasterPipeline/Images/classify_info.png)
+Please see the images below:
+
+![overview](https://github.com/ronger4242/DisasterPipeline/blob/master/Images/overview.png)
+![classify_info](https://github.com/ronger4242/DisasterPipeline/blob/master/Images/classify_info.png)
 
 
 # Licensing, Authors, Acknowledgements
