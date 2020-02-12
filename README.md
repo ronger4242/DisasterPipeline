@@ -30,6 +30,21 @@ This project contains the following folders and files:
    * classifier.pkl (saved model)
 
 * README.md (project instructions)
+# How to run:
+
+1. To run ETL pipeline that cleans data and stores in database:
+python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
+
+2. To run ML pipeline that trains classifier and saves the model:
+python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
+
+3. Run the following command in the app's directory to run your web app:
+python run.py
+
+4. To get WORKSPACEID and WORKSPACEDOMAIN:
+run env | grep WORK
+Then replace the http://WORKSPACEID-3001.WORKSPACEDOMAIN with respective terms.
+http://view6914b2f4-3001.udacity-student-workspaces.com
 
 # Results
 Please see the images below:
