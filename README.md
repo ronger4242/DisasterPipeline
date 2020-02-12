@@ -33,10 +33,9 @@ This project contains the following folders and files:
 
 # Results
 Please see the images files
+![overview](https://github.com/ronger4242/DisasterPipeline/overview.png)
+![classify_info](https://github.com/ronger4242/DisasterPipeline/classify_info.png)
 
-![Overview of the training datasets](https://github.com/ronger4242/DisasterPipeline/Overview of the training datasets.PNG)
-
-![Classify info](https://github.com/ronger4242/DisasterPipeline/Classify info.PNG)
 
 # Licensing, Authors, Acknowledgements
 This project is licensed under the terms of the MIT license. Credits must be given to Figure Eight project for providing original dataset with Multilingual Disaster Response Messages.
