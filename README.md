@@ -34,7 +34,7 @@ This project contains the following folders and files:
 # Results
 Please see the images files
 
-![Overview of the training datasets](https://github.com/ronger4242/DisasterPipeline/Overview\ of\ the\ training\ datasets.PNG)
+![Overview of the training datasets](https://github.com/ronger4242/DisasterPipeline/Overview of the training datasets.PNG)
 
 ![Classify info](https://github.com/ronger4242/DisasterPipeline/Classify info.PNG)
 
