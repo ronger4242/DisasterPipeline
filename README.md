@@ -8,6 +8,8 @@ Python 3.x is required to run this Project. The following libraries are used:
 * Plotly
 * Sklearn
 * NLTK
+* Pickle
+* Re
 
 # Project Motivation
 Following natural disasters, there are overwhelmingly amount of messages. This project tends to build a data pipeline to help the disaster organization to filter and organize the messages, and thus faciliate the resources allocation process. 
