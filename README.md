@@ -1,5 +1,5 @@
 # DisasterPipeline
-This is the second project for Udacity Nano degree in Data Science
+This is the second project for Udacity Nano degree in Data Science.
 # Installation
 Python 3.x is required to run this Project. The following libraries are used:
 * Pandas
