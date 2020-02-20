@@ -52,7 +52,7 @@ http://view6914b2f4-3001.udacity-student-workspaces.com<br />
 Please see the images below:<br />
 
 ![overview](https://github.com/ronger4242/DisasterPipeline/blob/master/Images/overview.png)<br />
-![classify_info](https://github.com/ronger4242/DisasterPipeline/blob/master/Images/classify_info.png)<br />
+
 
 
 # Licensing, Authors, Acknowledgements
